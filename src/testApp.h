@@ -22,12 +22,4 @@ public:
     ofVboMesh billboards;
     ofImage image;
     bool isStart;
-    
-    void setParticleTexCoords(int i, float columnID, float rowID);
-    void setParticleColor(int i, float r, float g, float b, float a) ;
-    void setParticlePos(int i, float px, float py, float pz) ;
-    int                     cellRows;
-    int                     cellColls;
-    float           texW, texH;
-    float *dim;
 };
