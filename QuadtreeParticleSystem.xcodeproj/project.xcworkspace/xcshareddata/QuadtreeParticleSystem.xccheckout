@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>09328DA1-DBF8-4AAA-B8F4-1662D2FFC507</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QuadtreeParticleSystem</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>a2c67d46-c447-11de-a380-73d83ba7c083++1865</key>
+		<string>http://kyle.googlecode.com/svn/trunk/openframeworks/apps/demos/QuadtreeParticleSystem</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>QuadtreeParticleSystem.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>a2c67d46-c447-11de-a380-73d83ba7c083++1865</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>a2c67d46-c447-11de-a380-73d83ba7c083++1865</key>
+		<string>http://kyle.googlecode.com/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://kyle.googlecode.com/svn/trunk/openframeworks/apps/demos/QuadtreeParticleSystem/QuadtreeParticleSystem.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>a2c67d46-c447-11de-a380-73d83ba7c083++1865</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>a2c67d46-c447-11de-a380-73d83ba7c083++1865</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QuadtreeParticleSystem</string>
+		</dict>
+	</array>
+</dict>
+</plist>
